@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá Mundo  :wave:
 
-<!--
-**Cibsantos/Cibsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Sou a Cibele Santos , formada em Gestão Comercial e Tecnologia da Informação. Após anos de ampla experiência com vendas, decidi migrar de carreira para algo que sempre me chamou atenção, programação. 
+  Iniciei essa jornada a 8 meses, como Dev Front-End Jr, desde então tenho trabalhado em projetos pessoais, acadêmicos e já iniciei em trabalhos profissionais como PJ. Tenho compartilhado aquino GitHub alguns dos projetos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Outros  Fatos sobre Mim:
+
+  :b lue_book: Atualmente utilizo HTML5,CSS3 e JavaScript em meus projetos. 
+  : pencil2:Estou estudando Angular e Node.JS
+  :c omputer :Meu foco é me tornar uma Dev Full Stack. 
+  
