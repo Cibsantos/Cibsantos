@@ -1,17 +1,19 @@
-Olá Mundo  :wave:
+Hello World,  :wave:
 
 
 
 
-   Sou a Cibele Santos , formada em Gestão Comercial e Tecnologia da Informação. Após anos de ampla experiência com vendas, decidi migrar de carreira para algo que sempre me chamou atenção, programação.     Iniciei essa jornada, como Dev Front-End Jr, desde então tenho trabalhado em projetos pessoais, acadêmicos e profissionais. Tenho compartilhado aqui no GitHub alguns dos projetos. 
+   I'm Cibele, graduated in Commercial Management and Information Technology. In 2019, I migrated from a sales career to programming (I know. You might be thinking that one thing has nothing to do with the other, but that's where you're wrong). Today, I don't meet the customer's needs by selling products, but by developing applications, using stacks like JavaScript, .NET, ReactJS, Angular, Tailwindcss, Bootstrap, Angular Material.
+   I have experience with Jira, AWS CodePipeline, CI/CD.
    
    
    
-:pushpin: Outros Fatos sobre Mim:
+:pushpin: Other facts about me:
 
-  :blue_book: Atualmente utilizo HTML5,CSS3,JavaScript, React e Angular em meus projetos. 
+  :blue_book: My training in commercial management and experience with analysis of the client's needs, allowed me to work even as a project manager, for a year and a half, of a payroll conveyor belt, with a Corban portal and a Backoffice portal with integration in the financial instuon.
+ 
 
-  :pencil2: Estou em uma trilha de estudo em Desenvolvimento Full Stack com React e Node.
+  :pencil2: With that I worked with agile methodologies, prioritization of the backlog and contact with the squad and oriented according to the needs of the sprint.
 
  
 
